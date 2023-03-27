@@ -1,6 +1,6 @@
 
 # About Me -
-Working on learning React.<br><br>Hoping to collaborate on any big projects.<br><br>Willing to help with any Node.js backend.
+Working on bettering my React skills.<br><br>Hoping to collaborate on any big projects.<br><br>Willing to help with any Node.js backend.
 
 
 ![Alt Text](https://imgs.search.brave.com/pqqrZDERLuenQy_z2yi4VoSVD18wwmOf2PZdIxG1Th4/rs:fit:344:323:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2Jm/YjM5ZGQ5LWU4OWYt/NDVmNy1iMmVlLWI3/NTg4MGU4ZmZkNC9k/OThjaGk1LTExYTYw/MzcwLWIwYzktNDg2/NC05ODdiLTk3MDk4/ZGY3NWUwZi5naWY_/dG9rZW49ZXlKMGVY/QWlPaUpLVjFRaUxD/SmhiR2NpT2lKSVV6/STFOaUo5LmV5Snpk/V0lpT2lKMWNtNDZZ/WEJ3T2lJc0ltbHpj/eUk2SW5WeWJqcGhj/SEE2SWl3aWIySnFJ/anBiVzNzaWNHRjBh/Q0k2SWx3dlpsd3ZZ/bVppTXpsa1pEa3Ra/VGc1WmkwME5XWTNM/V0l5WldVdFlqYzFP/RGd3WlRobVptUTBY/QzlrT1RoamFHazFM/VEV4WVRZd016Y3dM/V0l3WXprdE5EZzJO/QzA1T0RkaUxUazNN/RGs0WkdZM05XVXda/aTVuYVdZaWZWMWRM/Q0poZFdRaU9sc2lk/WEp1T25ObGNuWnBZ/MlU2Wm1sc1pTNWti/M2R1Ykc5aFpDSmRm/US53eDFRVnlSdG5H/dEhrcHozSC1VYWdZ/ZWZmWXN6VFB3clpG/eGhEUXNVbWdV.gif)
